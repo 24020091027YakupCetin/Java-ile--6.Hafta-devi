@@ -1,4 +1,4 @@
-# Java ile-5.Hafta Ödevi
+# Java ile-6.Hafta Ödevi
 
 Bu depo, nesne yönelimli programlama (OOP), soyut sınıflar (abstract classes), arayüzler (interfaces), karşılaştırma (`Comparable`), klonlama (`Cloneable`) ve büyük sayılar (`BigInteger`) konularını kapsayan Java ödev çözümlerini içermektedir.
 
